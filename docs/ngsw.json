@@ -1,0 +1,118 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606885230760,
+  "index": "https://little-yellow-bean.github.io/douban-movie/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://little-yellow-bean.github.io/douban-movie/5-es2015.dbf9fb72e94fe622d185.js",
+        "https://little-yellow-bean.github.io/douban-movie/5-es5.dbf9fb72e94fe622d185.js",
+        "https://little-yellow-bean.github.io/douban-movie/favicon.ico",
+        "https://little-yellow-bean.github.io/douban-movie/index.html",
+        "https://little-yellow-bean.github.io/douban-movie/main-es2015.ca7fc47ec136756c2d97.js",
+        "https://little-yellow-bean.github.io/douban-movie/main-es5.ca7fc47ec136756c2d97.js",
+        "https://little-yellow-bean.github.io/douban-movie/manifest.webmanifest",
+        "https://little-yellow-bean.github.io/douban-movie/polyfills-es2015.f332a089ad1600448873.js",
+        "https://little-yellow-bean.github.io/douban-movie/polyfills-es5.2237b5d0d7a85091411d.js",
+        "https://little-yellow-bean.github.io/douban-movie/runtime-es2015.fa4fc980d669f61b1186.js",
+        "https://little-yellow-bean.github.io/douban-movie/runtime-es5.fa4fc980d669f61b1186.js",
+        "https://little-yellow-bean.github.io/douban-movie/styles.7b6c77eb1c678b57509c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-128x128.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-144x144.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-152x152.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-192x192.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-384x384.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-512x512.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-72x72.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-96x96.png",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/China.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/Japan.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/animation.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/close.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/coming.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/down.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/hot.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/korea.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/movie.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/movies.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/new.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/search.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/show.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/top250.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/tv.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/up.svg",
+        "https://little-yellow-bean.github.io/douban-movie/assets/svg/usa.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://little-yellow-bean.github.io/douban-movie/5-es2015.dbf9fb72e94fe622d185.js": "1dd6a36bee5124916f50db2a79724c62801fb442",
+    "https://little-yellow-bean.github.io/douban-movie/5-es5.dbf9fb72e94fe622d185.js": "b1addffeea413218c59405d80e7c7d6c15018c49",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-128x128.png": "617dd8de619e1983b29072d202ea813cb5bf74e5",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-144x144.png": "df5e52dfcd63a536b38cd9ee1ee34b29a2636a26",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-152x152.png": "5894207b0460b9097a0d6c03451841008d1d7df0",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-192x192.png": "906caba6a090e91238b0af78c3a406a7e22b402f",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-384x384.png": "1c7c0c60a388f6553042f739cef6bf8f5dd7fa26",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-512x512.png": "4611024b09c356c6e6f3c285b432f7cb3e0b014f",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-72x72.png": "666ba81020a8e83407586346453563b0c451fb68",
+    "https://little-yellow-bean.github.io/douban-movie/assets/icons/icon-96x96.png": "b59eace626455aaf9c1671b086f28ec12449caba",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/China.svg": "643b279a64c4122d029ba750bcf90ff997b7e5f1",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/Japan.svg": "69c73ff060a7dd5fd310f09ddb8df649d4244ddf",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/animation.svg": "8bfa6e1cdf12683f501a5b43eff5618a88d60784",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/close.svg": "8b776764f395386d649c583fa38c20db46b78191",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/coming.svg": "eb2bedc125c57318aed6c8647f980b37922eb81b",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/down.svg": "f4e29bdfb685781e4c7c20b44cf5049d3960a029",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/hot.svg": "44be644e08dde61f002c55f67eb23e2af44a4b9a",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/korea.svg": "c88e787422bef4b1942edc5d7c5452155e651103",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/movie.svg": "bd1087be5e73c9ab1dcc921cb6c430182eee95aa",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/movies.svg": "654cd99090015a50d21b83c17c0e7fc957950410",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/new.svg": "0b570baceab92c40dd970aaa9d14a5ef8926b513",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/search.svg": "056b20ea94a475136f5858702d944b2ff9bd8f8f",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/show.svg": "c1785f72095651416a01cbb30ec70e41f54b7c0f",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/top250.svg": "5f022cc9186f1414b4ee901492be25c1601c124c",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/tv.svg": "b8835d83927987683a60a7de128705a63ec638ed",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/up.svg": "866d4cea77c8579b33c4e1355091846933e491c1",
+    "https://little-yellow-bean.github.io/douban-movie/assets/svg/usa.svg": "b071a78e26ff96d4508d3504777a6b5f9da343d5",
+    "https://little-yellow-bean.github.io/douban-movie/favicon.ico": "bc3659a42f6caf26ee5d159af5bf2ef1c8c3231f",
+    "https://little-yellow-bean.github.io/douban-movie/index.html": "b2b7d92f4ab20311790bc4261d5c46cc72ceec11",
+    "https://little-yellow-bean.github.io/douban-movie/main-es2015.ca7fc47ec136756c2d97.js": "fba4945a798773f4cedca96e51b35062cd30fd8c",
+    "https://little-yellow-bean.github.io/douban-movie/main-es5.ca7fc47ec136756c2d97.js": "26d3fcbcff45709a0a7ca492c31d9e1b5194f112",
+    "https://little-yellow-bean.github.io/douban-movie/manifest.webmanifest": "2375488f0c32cad009e67cd095c5ee4be3734579",
+    "https://little-yellow-bean.github.io/douban-movie/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://little-yellow-bean.github.io/douban-movie/polyfills-es5.2237b5d0d7a85091411d.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://little-yellow-bean.github.io/douban-movie/runtime-es2015.fa4fc980d669f61b1186.js": "77464ac135390dfec5409d6aae85c81b3a65bff8",
+    "https://little-yellow-bean.github.io/douban-movie/runtime-es5.fa4fc980d669f61b1186.js": "4e7e56607919281e0669e87ceac622a07b3a49d8",
+    "https://little-yellow-bean.github.io/douban-movie/styles.7b6c77eb1c678b57509c.css": "6b53d1b5ee0cb1c23c206ce85b28cea507495ac1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
